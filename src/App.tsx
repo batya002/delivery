@@ -1,6 +1,11 @@
+import { Home } from "./pages"
 
-export default function App() {
+const App = () => {
   return (
-    <div>Umar's app</div>
+    <>
+      <Home />
+    </>
   )
 }
+
+export default App
