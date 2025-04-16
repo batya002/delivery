@@ -1,6 +1,6 @@
 
 export default function App() {
   return (
-    <div>App</div>
+    <div>Umar's app</div>
   )
 }
