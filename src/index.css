@@ -117,6 +117,10 @@
   body {
     @apply bg-background text-foreground;
   }
+
+  button {
+    @apply cursor-pointer
+  }
 }
 
 @utility container {
@@ -124,4 +128,13 @@
   width: 100%;
   margin: 0 auto;
   padding: 0 20px;
+}
+
+@theme {
+  --color-primary: #111827;
+  --color-gray: #e5e7eb;
+  --color-lightGray: #f3f4f6;
+  --color-yellow: #ffff00;
+
+  --shadow-cardShadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }

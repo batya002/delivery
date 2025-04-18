@@ -1,6 +1,12 @@
 const Admin = () => {
     return (
-        <div>Admin</div>
+        <main>
+            <section>
+                <div className="container">
+                    <h1>Admin</h1>
+                </div>
+            </section>
+        </main>
     )
 }
 
