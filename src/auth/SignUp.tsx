@@ -1,9 +1,9 @@
 const SignUp = () => {
   return (
-    <main>
+    <main className="pt-[90px]">
       <section>
         <div className="container">
-          <h1>SignUp</h1>
+          <h1>Sign up</h1>
         </div>
       </section>
     </main>

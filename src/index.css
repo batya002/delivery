@@ -119,7 +119,11 @@
   }
 
   button {
-    @apply cursor-pointer
+    @apply cursor-pointer;
+  }
+
+  Link {
+    display: block;
   }
 }
 
@@ -132,6 +136,7 @@
 
 @theme {
   --color-primary: #111827;
+  --color-darkGray: #9ca3af;
   --color-gray: #e5e7eb;
   --color-lightGray: #f3f4f6;
   --color-yellow: #ffff00;
