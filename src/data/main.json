@@ -1,7 +1,50 @@
 {
-    "products": [
-        {
-            
-        }
-    ]
+  "products": [
+    {
+      "id": "7781",
+      "imgUrl": "https://img.freepik.com/free-photo/various-types-bread-grain_140725-4437.jpg?semt=ais_hybrid&w=740",
+      "price": 10000,
+      "title": "Very nice bread",
+      "category": "Bread"
+    },
+    {
+      "category": "Oil",
+      "title": "Oil 1L",
+      "price": 100000,
+      "imgUrl": "https://thumbs.dreamstime.com/b/cooking-oil-19509851.jpg",
+      "id": "aaca"
+    }
+  ],
+  "users": [
+    {
+      "name": "Umar",
+      "email": "example@gmail.com",
+      "password": "megaAytishnik",
+      "id": "87c9"
+    },
+    {
+      "name": "Jafar",
+      "email": "example@gmail.com",
+      "password": "12345678",
+      "id": "f524"
+    },
+    {
+      "id": "273a",
+      "name": "Zaynab",
+      "email": "example@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "56ae",
+      "name": "Abdulbosid",
+      "email": "example@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "a5c5",
+      "name": "batya002",
+      "email": "idk@gmail.com",
+      "password": "novdaBoss"
+    }
+  ]
 }
